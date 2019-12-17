@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-17T14:14:35.133Z</updated>
+  <updated>2019-12-17T14:33:31.527Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/12/17/%E6%88%91%E5%85%B6%E5%AE%9E%E5%B9%B6%E4%B8%8D%E5%AD%A4%E5%83%BB/"/>
     <id>http://yoursite.com/2019/12/17/%E6%88%91%E5%85%B6%E5%AE%9E%E5%B9%B6%E4%B8%8D%E5%AD%A4%E5%83%BB/</id>
     <published>2019-12-17T14:14:35.000Z</published>
-    <updated>2019-12-17T14:14:35.133Z</updated>
+    <updated>2019-12-17T14:33:31.527Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我其实并不孤僻，简直可以说开朗活泼，但大多数时候我很懒，懒得经营一个关系，还有一些时候，就是爱自由，觉得任何一种关系都会舒服自己。当然最重要的，还是知音难觅。我老觉得跟大多数人交往，总是只能拿出自己的一个维度，很难找到和自己一样兴趣一望无际的人。</p>]]></content>
     
     <summary type="html">
     
@@ -35,6 +35,10 @@
     </summary>
     
     
+      <category term="笔记" scheme="http://yoursite.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="刘瑜" scheme="http://yoursite.com/tags/%E5%88%98%E7%91%9C/"/>
     
   </entry>
   
@@ -69,7 +73,7 @@
     <link href="http://yoursite.com/2019/12/17/%E8%8B%A5%E8%A7%81%E5%88%B0%E4%BD%A0/"/>
     <id>http://yoursite.com/2019/12/17/%E8%8B%A5%E8%A7%81%E5%88%B0%E4%BD%A0/</id>
     <published>2019-12-17T12:07:23.000Z</published>
-    <updated>2019-12-17T12:50:03.105Z</updated>
+    <updated>2019-12-17T14:29:24.719Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>若我见到你，事隔经年，我该如何和你打招呼，以眼泪，以沉默。<br><img src="https://i.loli.net/2019/12/17/xEHtTDQBZf7a1r8.jpg" alt="IMG_20190819_171357.jpg"></p>]]></content>
     
@@ -83,7 +87,7 @@
     </summary>
     
     
-      <category term="Article" scheme="http://yoursite.com/categories/Article/"/>
+      <category term="笔记" scheme="http://yoursite.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="拜伦" scheme="http://yoursite.com/tags/%E6%8B%9C%E4%BC%A6/"/>
